@@ -1,0 +1,23 @@
+# Build directories
+build/
+cmake-build-*/
+debug/
+release/
+
+# macOS files
+.DS_Store
+
+# Qt Creator user-specific files
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user*
+*.qtc_clangd/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.app
+*.dSYM/
